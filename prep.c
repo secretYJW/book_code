@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* 기호 상수		*/
+/* 기호 상수 */
 #define LIMITL 256 /* 배열 최대 영역 */
 #define TRUE 1 /* 참 */
 #define FALSE 0 /* 거짓 */

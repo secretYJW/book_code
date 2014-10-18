@@ -30,6 +30,7 @@ int main()
 	return 0;
 }
 
+
 void eval(double data, double olddata)
 {
 	if (data >= olddata)
